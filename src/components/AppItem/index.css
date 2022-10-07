@@ -1,0 +1,22 @@
+.app-list-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style-type: none;
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding-top: 16px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  width: 45%;
+  max-width: 128px;
+}
+.app-image {
+  width: 70px;
+  height: 70px;
+}
+.app-name {
+  font-size: 13px;
+  font-family: 'Roboto';
+}

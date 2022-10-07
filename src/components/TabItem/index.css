@@ -1,0 +1,18 @@
+.tab-list {
+  list-style-type: none;
+}
+
+.active-tab {
+  color: #2563eb;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 10px;
+}
+.tab-button {
+  color: #7b8794;
+  font-weight: bold;
+  font-size: 18px;
+  outline: none;
+  padding: 10px;
+  cursor: pointer;
+}
